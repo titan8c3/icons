@@ -1,7 +1,11 @@
 # My Icons
 ## PNG
-<img src="https://github.com/titan8c3/icons/blob/main/Redis-logo.png?raw=true" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/PNG/MongoDB_ForestGreen.png?raw=true" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/PNG/NginxPM-logo.png?raw=true" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/PNG/Redis-logo.png?raw=true" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/PNG/unifi-icon.png?raw=true" width=64 height=64>
 
 
 ## SVG
-<img src="https://raw.githubusercontent.com/titan8c3/icons/0aa620dfd6fd02a8d1948c33afac2ff4368d68fc/orange-flat-community2.svg" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-database.svg" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-jellyfin.svg" width=64 height=64>
