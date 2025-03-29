@@ -1,6 +1,5 @@
 # 
 PNG
-<img src="https://github.com/titan8c3/icons/blob/main/orange-flat-community2.png?raw=true" width=64 height=64>
 <img src="https://github.com/titan8c3/icons/blob/main/Redis-logo.png?raw=true" width=64 height=64>
 
 
