@@ -4,4 +4,4 @@
 
 
 ## SVG
-<img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-database.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-jellyfin.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-ai3.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-powertool.svg" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-database.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-jellyfin.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-ai3.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-powertool.svg" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/SVG/orange-network.svg" width=64 height=64>
