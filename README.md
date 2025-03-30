@@ -1,6 +1,7 @@
 # My Icons
 ## PNG
 <img src="https://github.com/titan8c3/icons/blob/main/PNG/mongo.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/NginxPM-logo.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/Redis-logo.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/ubiquiti.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/syncthing.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/immich.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/orange-ai3.png?raw=true" width=64 height=64>
+<img src="https://github.com/titan8c3/icons/blob/main/PNG/authentik.png?raw=true" width=64 height=64><img src="https://github.com/titan8c3/icons/blob/main/PNG/authentik_worker.png?raw=true" width=64 height=64>
 
 
 ## SVG
